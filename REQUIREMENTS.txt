@@ -1,0 +1,11 @@
+streamlit
+smtplib
+bcrypt
+sqlite3
+numpy
+joblib
+pandas
+webbrowser
+base64
+scikit-learn
+
