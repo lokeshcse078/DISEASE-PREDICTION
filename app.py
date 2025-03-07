@@ -56,10 +56,10 @@ st.sidebar.header("Need Help?")
 
 # Display Contact Email in Sidebar
 st.sidebar.write("📩 **Contact Email:**")
-st.sidebar.markdown("[s.lokeeshkumar006@gamil.com.com](mailto:s.lokeeshkumar006@gamil.com)")
+st.sidebar.markdown("[your-email@gamil.com.com](mailto:your-email-@gamil.com)")
 
 # Support Email Link
-support_email = "mailto:s.lokeeshkumar006@gamil.com?subject=Help%20Needed&body=Hello,%20I%20need%20assistance%20regarding%20the%20disease%20prediction%20app."
+support_email = "mailto: your-email-@gamil.com?subject=Help%20Needed&body=Hello,%20I%20need%20assistance%20regarding%20the%20disease%20prediction%20app."
 
 # Help Button in Sidebar
 if st.sidebar.button("📧 Contact Support"):
